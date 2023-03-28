@@ -1,8 +1,8 @@
 import PassingObjectsSupportOne from "./PassingObjectsSupportOne";
 
 let someObject1 = {
-  name: `Jay`,
-  profession: `Freelance Coding Tutor`,
+  name: `Rohi`,
+  profession: `Student`,
   purpose: `To be my own boss`,
   totalExperience: 10,
   numberOfHoursSleepingEveryDay: 10,
